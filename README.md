@@ -1,8 +1,8 @@
-# Fetch TableData fron API using Context API
+# Fetch TableData from API using Context API
 
 ## Step followed
 
-- Create context form react.
+- Create context from react.
 - Write a function to fetch data from api and use this function in useEffect to get data as soon as page load.
 - Provide the fetch data to child component.
 - Create Table component to show fetched data in tabular manner using useContext.
